@@ -1,0 +1,27 @@
+{
+    "ANALYSIS": {
+        "farField": 80,
+        "display": {
+            "graph": true,
+            "quiver": false,
+            "wire": false
+        },
+        "dataCollection": {
+            "angularData": false,
+            "powerData": false,
+            "doubleSlitData": false,
+            "normalizeEField": false
+        },
+        "comparisonGraph": "modSinx",
+        "sphericalComparison": {
+            "count": 1,
+            "radii": [80]
+        },
+        "doubleSlit": {
+            "screenOffset": 20,
+            "toScreenDistance": 130,
+            "width": 5,
+            "separation": 30
+        }
+    }
+}

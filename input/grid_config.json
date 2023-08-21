@@ -1,0 +1,33 @@
+{
+    "PARAMETER_SETTINGS": {
+        "dimension": "2D",
+        "axis": "xy",
+        "fieldPlot": "ez",
+        "pointSource": "ez",
+        "boundaryCondition": "PML",
+        "sourceType": "Point"
+    },
+
+    "SOURCE_POSITION": {
+        "iSource": 100,
+        "jSource": 100,
+        "kSource": 100
+    }, 
+
+    "GRID_SIZE": {
+        "iMax": 200,
+        "jMax": 200,
+        "kMax": 200,
+        "tMax": 100
+    },
+    
+    "GRID_RESOLUTION": {
+        "lambdaMin": 0.02
+    },
+   
+    "PML": {
+        "lowBoundary": [8, 8, 8],
+        "highBoundary": [8, 8, 8]
+    }
+}
+

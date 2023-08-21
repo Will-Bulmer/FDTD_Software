@@ -1,0 +1,9 @@
+{
+    "CONDUCTIVE_WIRE": {
+        "acFrequency": 7.0e+19,
+        "copperResistance": 1.77e8,
+        "toroidMajorAxis": 45,
+        "toroidMinorAxis": 8,
+        "pointSourceTotal": 1
+    }
+}

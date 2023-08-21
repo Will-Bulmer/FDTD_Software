@@ -1,0 +1,83 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V13
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE - Visual Studio Code
+.vscode/
+
+# IDE - IntelliJ
+.idea/
+
+# IDE - Eclipse
+*.classpath
+*.project
+*.settings/
+
+# Python
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+dist/
+build/
+info/
+develop-eggs/
+downloads/
+eggs/
+parts/
+bin/
+var/
+sdist/
+__pycache__/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/Gemfile.lock
+/lib/bundler/man/
+/ruby-version
+/.ruby-gemset
+/tmp/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ctxt
+*.jar.pack
+
+# Others
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.tlog
+*.spi
+
+# Directories Excluded
+/output/
+/build/
+
