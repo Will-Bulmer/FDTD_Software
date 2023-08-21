@@ -1,0 +1,4 @@
+- Want 3D, vacuum, no PML update equations
+- Want 3D, vacuum, PML update equations
+- Want 3D, conductivity, no PML update equations
+- Want 3D, conductivity, PML update equations
